@@ -4,6 +4,7 @@
   "repository": "https://github.com/RcKeller/NextJS-Boilerplate",
   "version": "7.0.0",
   "license": "MIT",
+  "npm": "6.x",
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js",
     "build": "cross-env NODE_ENV=production next build",
